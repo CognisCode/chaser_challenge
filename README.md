@@ -1,4 +1,4 @@
-![](https://github.com/YassinYassinYassin/chaser_challenge/blob/main/resources/simu.gif)
+![](https://github.com/YassinYassinYassin/chaser_challenge/blob/main/resources/sim.gif)
 
 
 # Chaser Challenge
