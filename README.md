@@ -3,7 +3,7 @@
 
 # Chaser Challenge
   
-This program uses nannou to setup a visual simulation of a resource gathering game. Three chasers _value_, _close_, _high_ and _custom_ are generated. The goal is to accumulate as much rewards as possible. Their are high rewards labeled green worth 200 and low rewards labeled blue worth 50. 
+This program uses nannou to setup a visual simulation of a resource gathering game. Three chasers _value_, _close_, _high_ and _custom_ are generated. The goal is to accumulate as much rewards as possible. There are high rewards labeled green worth 200 and low rewards labeled blue worth 50. 
 - close: chases the closest resource regardless of value.
 - high: chases high resources first. Only goes for low resources as all the high resources have been depleted.
 - value: Chases the reward with the highest _value/distance_ ratio. 
